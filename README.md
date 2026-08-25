@@ -74,6 +74,21 @@ This repository contains practical exercises covering cybersecurity fundamentals
 
 ```text
 cybersecurity-labs/
+📈 Progress
+ Linux fundamentals
+ Networking fundamentals
+ Nmap & enumeration
+ Wireshark & packet analysis
+ Web security fundamentals
+ Vulnerability assessment
+ Security automation with Python
+ CTF practice
+ Professional penetration-testing methodology
+🔐 Ethics
+
+All activities documented in this repository are performed for educational purposes in controlled and authorized environments.
+
+I do not perform unauthorized testing against systems or networks.
 │
 ├── linux/
 ├── networking/
